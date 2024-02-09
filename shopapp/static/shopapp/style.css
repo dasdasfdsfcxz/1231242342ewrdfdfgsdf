@@ -1,0 +1,15 @@
+.main-div{
+    width: 100%;
+    height: auto;
+    flex-direction: column;
+    padding: 2%;
+    background:linear-gradient(yellow, pink) ;
+}
+
+.product-card{
+    flex-direction: column;
+    background-color: orange;
+    border-color: black;
+    border-radius: 10%;
+    border: 3px;
+}
